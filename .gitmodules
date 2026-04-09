@@ -41,9 +41,6 @@
 [submodule "pack/fzf.vim/start/fzf.vim"]
 	path = pack/fzf.vim/start/fzf.vim
 	url = https://github.com/junegunn/fzf.vim
-[submodule "pack/vim-polyglot/start/vim-polyglot"]
-	path = pack/vim-polyglot/start/vim-polyglot
-	url = https://github.com/sheerun/vim-polyglot
 [submodule "pack/Colorizer/start/Colorizer"]
 	path = pack/Colorizer/start/Colorizer
 	url = https://github.com/chrisbra/Colorizer
